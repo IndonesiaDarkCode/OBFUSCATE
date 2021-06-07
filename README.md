@@ -17,4 +17,5 @@ CARA PAKAI NYA GAMPANG BANGET KALAU KALIAN PAKE LINUX,TAPI KALAU KALIAN PAKE TER
 Selamat mencoba :)
 
 Untuk pengguna Linux boleh langsung loncat ke Cara nomor 3 :)
+
 #INDONESIA DARK CODE
