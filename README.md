@@ -8,9 +8,9 @@ CARA PAKAI NYA GAMPANG BANGET KALAU KALIAN PAKE LINUX,TAPI KALAU KALIAN PAKE TER
 
 2.pkg install python2
 
-3.git clone https://github.com/Cyrux308/Obfuscate
+3.git clone https://github.com/IndonesiaDarkCode/OBFUSCATE
 
-4.cd Obfuscate
+4.cd OBFUSCATE
 
 5.python2 obfuscate.py
 
